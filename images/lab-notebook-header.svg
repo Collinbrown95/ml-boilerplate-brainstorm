@@ -1,0 +1,17 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="182" width="1202" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_4"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" height="182" width="1200.999973" y="-0.546875" x="-1.5" stroke-opacity="null" stroke-width="0" fill="#ffcb49" stroke="#000"/>
+  <path stroke="#000" id="svg_1" d="m449.878605,15.65499l-26.271682,26.281075l26.274125,26.27618l9.556496,-9.55632l-16.722275,-16.719868l16.718797,-16.719875l-9.555461,-9.561193l0,0l0,0zm38.450643,0l-9.549575,9.558771l16.718863,16.719853l-16.718863,16.71782l9.549575,9.556276l26.277633,-26.278587l-26.277633,-26.274133l0,0z" stroke-width="1.5" fill="#fff"/>
+  <text font-weight="normal" stroke="#000000" transform="matrix(2.7262938022613525,0,0,2.7262938022613525,-81.99895560741425,-37.03439672663808) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="36.850755" x="31.360874" stroke-width="0.5" fill="#ffffff">Lab Notebook</text>
+ </g>
+</svg>

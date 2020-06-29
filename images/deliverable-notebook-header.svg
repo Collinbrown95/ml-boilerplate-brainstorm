@@ -1,0 +1,18 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="182" width="1202" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_4"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" height="182" width="1200.999973" y="-0.546875" x="-1.5" stroke-opacity="null" stroke-width="0" fill="#6dff56" stroke="#000"/>
+  <text style="cursor: move;" font-weight="normal" stroke="#000000" transform="matrix(2.7262938022613525,0,0,2.7262938022613525,-81.99895560741425,-37.03439672663808) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="36.850755" x="31.360874" stroke-width="0.5" fill="#ffffff">Deliverable Notebook</text>
+  <path id="svg_1" d="m688.54764,39.772816l-28.33753,-28.366995l18.6625,0l28.33753,28.366995l-28.33753,28.366972l-18.6625,0l28.33753,-28.366972z" stroke-opacity="null" stroke="#000" fill="#ffffff"/>
+  <path id="svg_6" d="m720.692463,39.77282l-28.33753,-28.367l18.6625,0l28.33753,28.367l-28.33753,28.36697l-18.6625,0l28.33753,-28.36697z" stroke-opacity="null" stroke="#000" fill="#ffffff"/>
+ </g>
+</svg>
