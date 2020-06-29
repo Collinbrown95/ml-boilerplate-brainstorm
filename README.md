@@ -47,7 +47,15 @@ project-folder
     - This group distinguishes between __lab__ notebooks and __deliverable notebooks__.
       - The former is for experimentation and each data scientist creates their own book following a naming convention.
       - The latter are the fully polished notebooks that deliver analysis results.
-  
+
+### Notebook template
+- Another idea that has been proposed is to have default templates that all notebooks are based off of. This could be auto-created with a CLI tool.
+
+__Features__
+- Options included for convenience. 
+
 ## CLI Utilities
 
 ### Click
+- [click](https://click.palletsprojects.com/en/7.x/) seems to be a common choice for python CLI tools
+- 
